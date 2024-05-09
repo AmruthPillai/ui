@@ -58,7 +58,7 @@
     "jotai": "^2.1.0",
     "lodash.template": "^4.5.0",
     "lucide-react": "0.214.0",
-    "next": "13.4.6",
+    "next": "14.1.1",
     "next-contentlayer": "0.3.3",
     "next-themes": "^0.2.1",
     "react": "^18.2.0",
@@ -67,7 +67,7 @@
     "react-hook-form": "^7.44.2",
     "react-wrap-balancer": "^0.4.1",
     "recharts": "^2.6.2",
-    "sharp": "^0.31.3",
+    "sharp": "^0.33.3",
     "tailwind-merge": "^1.12.0",
     "zod": "^3.21.4"
   },
